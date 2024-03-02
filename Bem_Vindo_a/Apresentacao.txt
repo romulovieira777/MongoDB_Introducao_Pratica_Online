@@ -1,0 +1,18 @@
+Apresentação
+
+Bem-vindo!É um prazer tê-lo como aluno do nosso curso online Introdução Prática ao  MongoDB. O MongoDB é uma das
+ferramentas de big data mais utilizadas atualmente quando o propósito é o gerenciamento de um grande volume de dados
+semiestruturados. O curso online Introdução Prática ao MongoDB é ideal para você que deseja conhecer e  niciar a prática
+do uso do banco de dados MongoDB. Você irá conhecer as vantagens oferecidas pelo MongoDB, aprenderá a instalá-lo e a
+criar e manipular um banco de dados MongoDB através do desenvolvimento de um sistema, englobando as principais
+funcionalidades. Bom aprendizado!
+
+Como estudar?
+
+Assista! -> Pratique! -> Materia de Apoio
+
+Este curso conta com:
+
+Videoaulas sobre os assuntos que você precisa saber neste curso de introdução prática ao MongoDB.
+Exercícios para você pôr à prova o que aprendeu.
+Material de apoio para você testar os exemplos das videoaulas.
