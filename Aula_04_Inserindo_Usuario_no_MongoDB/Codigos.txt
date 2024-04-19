@@ -1,0 +1,35 @@
+use classedb;
+
+
+db.createUser(
+{
+    user: "classedb",
+    pwd: "classedb",
+    roles: [
+        { role: "root", db: "classedb" }
+    ]
+});
+
+
+db.getUsers();
+
+
+db.auth("classedb", "senha");
+
+
+db.getUsers();
+
+
+db.dropUser("nomeUsuario");
+
+
+db.dropUser();
+
+
+db.createUser({
+    user: "nomeUsuario",
+    pwd: "senha",
+    roles: [
+        { role: "readWrite", db: "classedb" }
+    ]
+});
