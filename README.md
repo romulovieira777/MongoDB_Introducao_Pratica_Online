@@ -7,5 +7,6 @@
 - [Aula 02 - Instalando o PHP](https://github.com/romulovieira777/MongoDB_Introducao_Pratica_Online)
 - [Aula 03 - Instalando o MongoDB](https://github.com/romulovieira777/MongoDB_Introducao_Pratica_Online/tree/main/Aula_03_Instalando_o_Mongodb)
 - [Aula 04 - Inserindo Usuário no MongoDB](https://github.com/romulovieira777/MongoDB_Introducao_Pratica_Online/tree/main/Aula_04_Inserindo_Usuario_no_MongoDB)
+- [Aula 05 - Consultando o MongoDB com o PHP](https://github.com/romulovieira777/MongoDB_Introducao_Pratica_Online/tree/main/Aula_05_Consultando_o_MongoDB_com_o_PHP)
 
 Link para o curso: [Impacta](https://impacta.com.br/cursos/introducao-pratica-ao-mongodb-online)
