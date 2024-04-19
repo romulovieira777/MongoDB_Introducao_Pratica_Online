@@ -1,0 +1,16 @@
+Windows:
+Baixar a versão do mongoDB em:
+    https://www.mongodb.com/
+
+Após finalizar a instalação, para executar o MongoDB temos o manual:
+    https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/#install-mdb-edition
+
+Execute o comando CMD para abrir o interpretador de comandos(prompt);
+Vá para o local: C:\ e execute o comando abaixo para criar a pasta do MongoDB
+    md "\data\db" "\data\log“
+
+Para executar o MongoDB:
+    "C:\Program Files\MongoDB\Server\4.0\bin\mongod.exe" --dbpath="c:\data\db“
+
+O mongoDB está rodando. Abra outro terminal com o comando CMD e execute o comando a seguir para acessar o mongo shell:
+    "C:\Program Files\MongoDB\Server\4.0\bin\mongo.exe"
