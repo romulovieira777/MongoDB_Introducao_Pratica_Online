@@ -1,0 +1,44 @@
+use classedb
+
+
+db.createCollection('turma')
+
+
+db.createCollection('alunos')
+
+
+show collections
+
+
+db.alunos.insertOne({
+    nome: 'Marcos'
+})
+
+
+db.alunos.insertOne({
+    nome: 'Pedro',
+    turma: 'Python'
+})
+
+
+db.alunos.insertOne({
+    nome: 'Maria',
+    turma: 'MySQL',
+    nota: 7
+})
+
+
+db.alunos.insertOne({
+    nome: 'Carolina',
+    sobrenome: 'Ferreira',
+    sexo: 'feminino',
+    idade: 29,
+    materias: [
+        'MongoDB', 'Java', 'C'
+    ],
+    notas: [
+        { 'MongoDB': 10 },
+        { 'Java': 9 },
+        { 'C': 8 }
+    ]
+})

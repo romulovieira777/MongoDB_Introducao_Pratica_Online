@@ -1,0 +1,34 @@
+use classedb
+
+
+show collections
+
+
+db.alunos.count()
+
+
+db.alunos.find()
+
+
+db.alunos.findOne()
+
+
+db.alunos.find().pretty()
+
+
+db.alunos.find({nome: "Carolina"})
+
+
+db.alunos.find({nome: "Carolina"}).pretty()
+
+
+db.alunos.find({nome: 'Marcos'})
+
+
+db.alunos.find({materias: 'Java'})
+
+
+db.alunos.find({
+    materias: 'MongoDB',
+    sexo: 'feminino'
+})

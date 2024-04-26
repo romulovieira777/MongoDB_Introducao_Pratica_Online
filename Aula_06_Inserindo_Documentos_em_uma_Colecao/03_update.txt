@@ -1,0 +1,30 @@
+use classedb
+
+
+db.alunos.count()
+
+
+db.alunos.find({nome: "Carolina"})
+
+
+db.alunos.find({nome: "Carolina"}).pretty()
+
+
+db.alunos.updateOne({
+    nome: "Carolina"
+}, {
+    $set: {
+        sobrenome: "Ferreira Martins"
+    }
+})
+
+
+db.alunos.find({nome: "Carolina"}).pretty()
+
+
+db.alunos.deleteOne({
+    sobrenome: "Ferreira Martins"
+})
+
+
+db.alunos.find({nome: "Carolina"}).pretty()
