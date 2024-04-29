@@ -9,6 +9,6 @@
 - [Aula 04 - Inserindo Usuário no MongoDB](https://github.com/romulovieira777/MongoDB_Introducao_Pratica_Online/tree/main/Aula_04_Inserindo_Usuario_no_MongoDB)
 - [Aula 05 - Consultando o MongoDB com o PHP](https://github.com/romulovieira777/MongoDB_Introducao_Pratica_Online/tree/main/Aula_05_Consultando_o_MongoDB_com_o_PHP)
 - [Aula 06 - Inserindo Documentos em uma Coleção](https://github.com/romulovieira777/MongoDB_Introducao_Pratica_Online/tree/main/Aula_06_Inserindo_Documentos_em_uma_Colecao)
-- [Aula 07 - Listando Dados com PHP]()
+- [Aula 07 - Listando Dados com PHP](https://github.com/romulovieira777/MongoDB_Introducao_Pratica_Online/tree/main/Aula_07_Listando_Dados_com_PHP)
 
 Link para o curso: [Impacta](https://impacta.com.br/cursos/introducao-pratica-ao-mongodb-online)
