@@ -12,6 +12,6 @@
 - [Aula 07 - Listando Dados com PHP](https://github.com/romulovieira777/MongoDB_Introducao_Pratica_Online/tree/main/Aula_07_Listando_Dados_com_PHP)
 - [Aula 08 - Inserindo novos Dados](https://github.com/romulovieira777/MongoDB_Introducao_Pratica_Online/tree/main/Aula_08_Inserindo_Novos_Dados)
 - [Aula 09 - Atualizando Dados pelo PHP](https://github.com/romulovieira777/MongoDB_Introducao_Pratica_Online/tree/main/Aula_09_Atualizando_Dados_pelo_PHP)
-- [Aula 10 - Excluindo Dados]()
+- [Aula 10 - Excluindo Dados](https://github.com/romulovieira777/MongoDB_Introducao_Pratica_Online/tree/main/Aula_10_Excluindo_Dados)
 
 Link para o curso: [Impacta](https://impacta.com.br/cursos/introducao-pratica-ao-mongodb-online)
